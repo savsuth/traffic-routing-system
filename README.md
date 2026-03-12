@@ -1,8 +1,5 @@
 # Traffic-Aware Intelligent Routing System
 
-## Overview
-This project explores traffic-aware route planning by combining graph search with traffic-related edge costs. The current version focuses on Boston's road network, a baseline A* implementation, and early-stage synthetic traffic generation for future model training.
-
 ## Motivation
 Traditional navigation systems often rely on static shortest-path routing or simplified traffic assumptions. This project aims to build a routing system that can eventually account for time-varying traffic conditions and improve route recommendations.
 
